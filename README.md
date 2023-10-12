@@ -24,12 +24,6 @@ To get started with this repository, follow these steps:
 
 4. Follow the instructions provided in the project's `README.md` file to set up and run the project on your local machine.
 
-## Projects
-
-This repository contains a collection of simple JavaScript projects. Each project focuses on a specific concept or feature of JavaScript. You can find the projects in the repository's root directory.
-
-Feel free to explore the projects and try them out on your own. You can also contribute your own simple JavaScript projects to this repository. See the [Contributing](#contributing) section for more information.
-
 ## Contributing
 
 Contributions to this repository are welcome! If you have a simple JavaScript project that you would like to share, please follow these steps:
